@@ -1,0 +1,24 @@
+body {
+    background-image: url(a65cdb666647aca02e1d498c278f1754.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+
+#personagem {
+    background-image: url(índice.png);
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    height: 80px;
+    position: absolute;
+    margin-top: 78vh;
+    width: 80px;
+}
+
+#plataforma {
+    background-color: black;
+    height: 50px;
+    position: absolute;
+    margin-top: 90vh;
+    /*margin: auto;*/
+    width: 99%;
+}
