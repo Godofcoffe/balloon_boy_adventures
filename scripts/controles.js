@@ -9,10 +9,6 @@ function keyPressed(evt){
     return String.fromCharCode(key); 
 }
 
-function pseudo_sleep() {
-    return null
-}
-
 document.onkeypress = function(evt) {
     let tecla = keyPressed(evt);
     bb.style.animation = ""
