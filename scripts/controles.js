@@ -23,7 +23,7 @@ document.onkeypress = function(evt) {
         bb.style.transform = "rotateY(180deg)"
     }
     if (tecla == "w") {
-        bb.style.animation = "salto 2s"
+        bb.style.animation = "salto linear 1s alternate"
     }
     if (tecla == "f") {
         bb.style = ""
