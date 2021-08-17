@@ -25,4 +25,8 @@ document.onkeypress = function(evt) {
     if (tecla == "w") {
         bb.style.animation = "salto 2s"
     }
+    if (tecla == "f") {
+        bb.style = ""
+        posx = 600
+    }
 }
