@@ -1,0 +1,23 @@
+{
+  "name": "balloon_boy_adventures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godofcoffe/balloon_boy_adventures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Godofcoffe/balloon_boy_adventures/issues"
+  },
+  "homepage": "https://github.com/Godofcoffe/balloon_boy_adventures#readme",
+  "dependencies": {
+    "socket.io": "^4.2.0"
+  }
+}
